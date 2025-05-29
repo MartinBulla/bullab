@@ -2,13 +2,13 @@
 ### locally
   backup-before-rebase  # Local backup before you rebased
   master                # Your local master
-* test-rebase           # You're currently on this updated branch
+  test-rebase           # master that was rebased from upstream and modified
 
 ### remote
 - origin/master — your main branch
 - origin/backup-before-rebase — backup pushed to GitHub
-- origin/test-rebase — your updated temp branch
-- origin/gh-pages —  used for deployment via GitHub Pages
+- origin/test-rebase — test-rebase pushed to GitHub
+- origin/gh-pages —  # master that was rebased from upstream and modified
 
 # ABOUT - change in /_pages/about.md
 # CV - change in /_data/cv.yml
