@@ -1,20 +1,13 @@
 ---
 layout: page
-permalink: /bullab/
-title: bullab
+permalink: /culture/
+title: our culture
 description: It is amazing what you can accomplish if you do not care who gets the credit. - Harry Truman
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 ---
-
-### general info
-
-BULLAB is a newly founded research group at Faculty of Environmental Sciences, Czech University of Life Sciencess Prague.
-
-We are exploring the global patterns and evolutionary dynamics of mostly avian traits, alongside their local adaptations. We focus on reproduction, fear, and communication, all tied together by a common thread: biorhythms.
-
 We believe that great science thrives in a collaborative, respectful, and student-centred environment. Our lab is inspired by the inclusive and people-first values advocated by [Fernando Maestre](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914) and [Joseph Tobias](http://www.tobiaslab.net/values/), and we strive to put these principles into daily practice.
 
 ### how we work
@@ -27,7 +20,7 @@ We believe that great science thrives in a collaborative, respectful, and studen
 
 ### what you can expect of me
 
-- **Non-violent communication, honest & empathy**: I aim to provide honest feedback with empathy, always trying to strike the right balance between critique and encouragement. Your wellbeing matters more than any analysis, paper, report, or proposal.
+- **Non-violent communication, honesty & empathy**: I aim to provide honest feedback with empathy, always trying to strike the right balance between critique and encouragement. Your wellbeing matters more than any analysis, paper, report, or proposal.
 - [**Blunt editing**](https://x.com/markahix/status/1313163038829109251): I like to be hands-on with manuscripts, making direct changes and suggestions. This is something every strong manuscript goes through—multiple rounds of revision, plenty of ‘red pen,’ and ongoing refinement. If your draft gets marked up, it doesn’t mean it’s worse than others—it just means it's in progress, like all the rest.
 - **Fair recognition**: I strive for transparency and fairness in authorship and credit, ensuring contributions are acknowledged appropriately.
 - **A safe & supportive environment**: Fostering a supportive, inclusive, and safe workplace is a top priority. If something doesn’t feel right, I want to know.

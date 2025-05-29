@@ -1,15 +1,15 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: people
+permalink: /people/
 description:
 nav: true
-nav_order: 2
-display_categories: [science, other fun]
-horizontal: false
+nav_order: 1
+display_categories: [lab leader, current members, past members]
+horizontal: false # TODO: add toc, but fix the h2 levels so that only lab leader, current and past are desribed
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/people.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2> 
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.people | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
