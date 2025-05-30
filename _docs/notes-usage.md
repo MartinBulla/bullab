@@ -47,6 +47,18 @@
           min_level: 2
           max_level: 2
         ---
+# change project/people title size in _includes/projects.liquid
+        <h4 class="card-title">{{ project.title }}</h4>
+
+# change image size by specifying col-sm-X value
+    <div class="row justify-content-md-center">
+        <div class="col-sm-7">
+            {% include figure.liquid path="assets/img/sh_inc_05-map.png" title="map" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="caption">
+        The map depicts sites where data on given species (color) were collected.
+    </div>
 # Add/change buttons in publications in _layouts/bib.liquid
 - to display journal abbreviation, abbreviation needs to be entered in the bibText of _bibliograpy/papers.bib
 - doi display is suppressed by me in _layouts/bib.liquid

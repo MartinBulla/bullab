@@ -1,6 +1,6 @@
 ---
 layout: page
-title: science about science
+title: mountain bird
 description: Global effort to understand how montane birds are responding to climate change.
 img: assets/img/mountain_bird.jpg
 importance: 6

@@ -6,7 +6,11 @@ description:
 nav: true
 nav_order: 1
 display_categories: [lab leader, current members, past members]
-horizontal: false # TODO: add toc, but fix the h2 levels so that only lab leader, current and past are desribed
+horizontal: false 
+toc:
+    sidebar: left
+    min_level: 2
+    max_level: 2 # TODO: add toc, but fix the h2 levels so that only lab leader, current and past are desribed
 ---
 
 <!-- pages/people.md -->

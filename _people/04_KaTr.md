@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kateřina Trejbalová
+title: Katka Trejbalová
 description: PhD student
 img: assets/img/p_fzp_katka.png
 importance: 4

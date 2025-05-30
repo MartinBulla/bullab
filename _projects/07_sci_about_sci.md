@@ -2,7 +2,7 @@
 layout: page
 title: science about science
 description: Striving to understand how scientist do their science.
-img: assets/img/prof_pic.jpg
+img: assets/img/prof_pic_rect.jpg
 importance: 7
 category: science
 ---
