@@ -2,7 +2,7 @@
 layout: post
 title: Hiring a data scientist
 date: 2025-05-27 12:37:17-0400 
-inline: true
+inline: false
 related_posts: false
 ---
 

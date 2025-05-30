@@ -11,7 +11,7 @@ profile:
   more_info: >
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -24,10 +24,6 @@ latest_posts:
 
 social: false  # includes social icons at the bottom of the page
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
 **bullab** is a newly founded research group at <a href='https://www.fzp.czu.cz/en/'>Faculty of Environmental Sciences</a>, Czech University of Life Sciencess Prague, exploring global patterns and evolution of traits along with local adaptations. 
