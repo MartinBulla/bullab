@@ -5,6 +5,10 @@ title: our culture
 description: It is amazing what you can accomplish if you do not care who gets the credit. - Harry Truman
 nav: true
 nav_order: 4
+toc:
+    sidebar: left
+    min_level: 2
+    max_level: 2
 ---
 
 ---
