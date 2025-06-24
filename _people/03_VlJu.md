@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Katka Trejbalová
+title: Vlaďka Jurasová
 description: Lab manager
 img: assets/img/team_Vladka_1_grey.JPG
 importance: 3
