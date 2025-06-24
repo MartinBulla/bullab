@@ -3,7 +3,7 @@ layout: page
 title: Lucie Pešková
 description: PhD student
 img: assets/img/past_fzp_lupes.png
-importance: 3
+importance:
 category: past members
 ---
 
