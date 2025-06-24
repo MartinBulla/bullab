@@ -1,7 +1,7 @@
 ---
 layout: page
-title: people
-permalink: /people/
+title: team
+permalink: /team/
 description:
 nav: true
 nav_order: 1
