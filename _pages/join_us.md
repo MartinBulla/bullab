@@ -5,11 +5,6 @@ title: join us
 description: If you are interested in joining BULLAB, please send us an email describing your research interests and experience. There is no taxonomic restriction. We are happy to help you with a funding proposal or discuss other possibilities.
 nav: true
 nav_order: 5
-toc:
-    sidebar: left
-    min_level: 4
-    max_level: 4
----
 ---
 
 #### post-doc opportunities
