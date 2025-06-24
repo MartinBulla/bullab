@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /join us/
+permalink: /join_us/
 title: join us
 description: If you are interested in joining BULLAB, please send us email describing your research interests and experience. There is no taxonomic restriction.
 nav: true
