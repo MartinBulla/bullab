@@ -17,20 +17,6 @@ bullab[@]fzp.czu.cz
 
 ---
 
-<div style="max-width: 900px; position: relative; padding-bottom: 60%; height: 0; overflow: hidden;">
-    <iframe 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" 
-        src="https://mapy.com/s/nugakezefa" 
-        width="400" 
-        height="280" 
-        frameborder="0">
-    </iframe>
-</div>
-
-
-
-test 2
-
 <style>
   .responsive-map {
     width: 100%;
@@ -39,8 +25,6 @@ test 2
     height: 0;
     overflow: hidden;
     position: relative;
-    border: 1px solid #ccc;
-    border-radius: 8px;
   }
 
   @media (max-width: 768px) {
