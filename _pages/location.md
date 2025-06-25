@@ -7,24 +7,27 @@ nav: true
 nav_order: 6
 ---
 
-**bullab**
-Environmental Studies Building (office Vn111)
-Faculty of Environmental Sciences
-Czech University of Life Sciences Prague
-Kamýcká 129, 165 21 Prague, Czechia.
+**bullab**  
+Environmental Studies Building (office Vn111)  
+Faculty of Environmental Sciences  
+Czech University of Life Sciences Prague  
+Kamýcká 129, 165 21 Prague, Czechia.  
 
 bullab[@]fzp.czu.cz
 
 ---
 Test 1
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="position: relative; padding-bottom: 10%; height: 0; overflow: hidden;">
     <iframe 
         style="border:none" 
-        src="https://mapy.com/s/kozamusola" 
+        src="https://mapy.com/s/nugakezefa" 
         width="400" 
-        height="280" frameborder="0">
+        height="280" 
+        frameborder="0">
     </iframe>
 </div>
+
+
 
 ---
 Test 2
