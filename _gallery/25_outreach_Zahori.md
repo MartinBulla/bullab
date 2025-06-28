@@ -26,13 +26,13 @@ We are ringing birds since 2005 at Trckova, Orlicke Zahori, to investigate the m
 
 <div class="row">
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/outreach/25_OZ_00_c.jpg" title="Mistnets" class="img-fluid rounded z-depth-1  equal-height-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/outreach/25_OZ_00_c.jpg" title="Mistnets" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">  
-        {% include figure.liquid loading="eager" path="assets/img/outreach/25_OZ_00_e.jpg" title="Ringing equipment" class="img-fluid rounded z-depth-1  equal-height-img" %}
+    <div class="col-sm-5 mt-3 mt-md-0">  
+        {% include figure.liquid loading="eager" path="assets/img/outreach/25_OZ_00_e.jpg" title="Ringing equipment" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">  
-        {% include figure.liquid loading="eager" path="assets/img/outreach/25_OZ_01_spider_b.jpg" title="Spider" class="img-fluid rounded z-depth-1  equal-height-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/outreach/25_OZ_01_spider_b.jpg" title="Spider" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">   
