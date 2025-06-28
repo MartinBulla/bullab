@@ -159,6 +159,10 @@ collections:
   people:
     output: true
     permalink: /:collection/:title/  
+  gallery:
+    output: true
+    permalink: /:collection/:title/   
+     
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
