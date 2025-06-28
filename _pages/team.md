@@ -10,7 +10,7 @@ horizontal: false
 toc:
     sidebar: left
     min_level: 2
-    max_level: 2 # TODO: add toc, but fix the h2 levels so that only lab leader, current and past are desribed
+    max_level: 2 
 ---
 
 <!-- pages/people.md -->
@@ -45,7 +45,7 @@ toc:
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.people | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
