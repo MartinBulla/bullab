@@ -24,7 +24,7 @@ We are ringing birds since 2005 at Trckova, Orlicke Zahori, to investigate the m
     Morning at the field siete. On the left, before sunrise. Middle, during sunrise. Right, mistnets ready.
 </div>
 
-<div class="row align-items-stretch">
+<div class="row">
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/outreach/25_OZ_00_c.jpg" title="Mistnets" class="img-fluid rounded z-depth-1  equal-height-img" %}
     </div>
