@@ -1,0 +1,14 @@
+/* =====================
+   custom.scss
+   Your overrides to al-folio’s style system.
+   ===================== */
+
+.equal-height-img {
+   height: 250px;
+   object-fit: cover;
+   width: 100%;
+
+   @media (max-width: 768px) {
+      height: 180px;
+   }
+}
