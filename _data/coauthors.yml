@@ -1,11 +1,11 @@
-"Bulla":
-  - firstname: ["Martin", "M.", "M. B."]
+"bulla":
+  - firstname: ["Martin", "M.", "M"]
     url: https://martinbulla.github.io
 
-"Mikula":
-  - firstname: ["Peter", "P.", "P. M."]
+"mikula":
+  - firstname: ["Peter", "P.", "P"]
     url: https://scholar.google.com/citations?user=ES0YHesAAAAJ&hl=sk
 
-"Herrera-Alsina":
-  - firstname: ["Leonel", "L.", "L. H."]
+"herrera-Alsina":
+  - firstname: ["Leonel", "L.", "L"]
     url: http://herrera-alsina.tilda.ws
