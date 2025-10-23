@@ -3,7 +3,7 @@ layout: page
 title: Laska
 description: Official mascot
 img: assets/img/Laska_03.png
-importance: 5
+importance: 6
 category: current members
 ---
 
