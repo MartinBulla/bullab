@@ -19,7 +19,7 @@ nav_order: 5
 ##### PhD opportunities
 **bullab** is happy to host PhD students who bring their own funding (e.g. [Fulbright Scholarships](https://fulbright.gov.cz/en/), [SECIHTI](https://secihti.mx/convocatorias/convocatorias-becas-al-extranjero/convocatorias-abiertas-becas-al-extranjero/convocatoria-becas-de-posgrado-en-ciencia-y-humanidades-en-el-extranjero-2025/). The Faculty of Environmental Sciences provides partial scholarships to PhD students, as long as they secure part of the funding themselves or via their supervisor. Currently, **bullab**does not have funds for PhD positions, but funding may become available in the future (currently 2026), depending on the success of our grant applications.
 
-We are \textcolor{searching for Mexican citizens to apply for PhD with us via SECIHTI }{red} (Mexican governmental) grant. **To apply** with us please send to bullab.fzp@gmail.cz an email with the subject line 2026_phd_name-surname, and containing **a single PDF** (<10 MB) **named 2026_phd_name-surname.pdf** with:
+We are \textcolor{red}{searching for Mexican citizens to apply for PhD with us via SECIHTI} (Mexican governmental) grant. **To apply** with us please send to bullab.fzp@gmail.cz an email with the subject line 2026_phd_name-surname, and containing **a single PDF** (<10 MB) **named 2026_phd_name-surname.pdf** with:
 - Motivation letter (max 1 page up to 550 words) emphasising your fit with **bullab**).  
 - Curriculum Vitae (max 2 pages), including work and field experience, publications and outputs such as code repositories, websites, apps, teaching, lectures.  
 - Contact details of 2 academic referees (e.g. former supervisor).  
