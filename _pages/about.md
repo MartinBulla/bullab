@@ -6,7 +6,7 @@ subtitle:  <a href='https://www.nature.com/articles/nature20563'>Biorhythms</a>,
 
 profile:
   align: right
-  image: me_&_kohout_bw_kohout-pop_grey.jpg
+  image: BullaB_logo_black.png #me_&_kohout_bw_kohout-pop_grey.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
