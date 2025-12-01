@@ -16,7 +16,7 @@ toc:
 ##### post-doc opportunities
 **bullab** is happy to host post-docs or fellowship holders who bring their own funding. Czechia offers excellent [opportunities](https://www.fzp.czu.cz/en/r-9676-news/postdoc-find-your-funding-opportunity-at-fzp-czu-2025.html) for international scientists, including Maria Curie Fellowships CZ, where projects scoring more than 70% are funded by the Czech government. 
 
-Our university **[just opened]({{ "/assets/pdf/czu_2025_return_grant.pdf" | relative_url }})** <span style="color: red;">a research fellowship **call for scientists retuning after career break**</span> of min. 180 days (exceptions apply in cases of part-time research work during the career break).
+Our university **[just opened]({{ "/assets/pdf/czu_2025_return_grant.pdf" | relative_url }})** <span style="color: red;">a research fellowship call for scientists retuning after career break</span> of min. 180 days (exceptions apply in cases of part-time research work during the career break).
 
 If **interested** in either of the above options, please send to bullab@fzp.czu.cz **an email with the subject line postdoc_name-surname**, and containing **a single PDF** (<10 MB) **named postdoc_name-surname.pdf** with:  
 - Motivation letter (max 1 page up to 550 words) emphasising your fit with BULLAB.
