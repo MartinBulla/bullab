@@ -7,7 +7,6 @@ _site
 .ruby-version
 .tweet-cache
 .history/
-.gitignore
 Gemfile.lock
 assets/libs/
 node_modules/
