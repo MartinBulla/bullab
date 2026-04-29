@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Vlaďka Jurasová
-description: lab manager
-img: assets/img/team_Vladka_1_grey.JPG
-importance: 5
+title: Ankitha Jaynath
+description: PhD student
+img: assets/img/team_ankitha_crop_bw.jpeg
+importance: 4
 category: current members
 ---
 
-mullerova at fzp.czu.cz
+ankitha.jayanth at gmail.com
