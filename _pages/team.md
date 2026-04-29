@@ -5,7 +5,7 @@ permalink: /team/
 description:
 nav: true
 nav_order: 1
-display_categories: [lab leader, current members, bullab global]
+display_categories: [current members, bullab global]
 horizontal: false
 toc:
     sidebar: left
