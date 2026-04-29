@@ -2,7 +2,7 @@
 layout: page
 title: Vlaďka Jurasová
 description: lab manager
-img: assets/img/team_Vladka_1_grey.JPG
+img: assets/img/team_Vladka_1_grey_v2.JPG
 importance: 5
 category: current members
 ---
