@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ankitha Jaynath
+title: Ankitha Jayanth
 description: PhD student
 img: assets/img/team_ankitha_crop_bw_v2.jpeg
 importance: 4
